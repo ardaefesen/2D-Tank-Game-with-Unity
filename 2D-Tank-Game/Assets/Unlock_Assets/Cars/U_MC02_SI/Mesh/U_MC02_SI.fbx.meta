@@ -1,0 +1,234 @@
+fileFormatVersion: 2
+guid: f90d8bb4708914bfca23f6eda5787660
+timeCreated: 1509910111
+licenseType: Store
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Brake_Caliper
+    100002: interior_Low
+    100004: Steering_Wheel
+    100006: U_MC02_BlackShine
+    100008: U_MC02_CarBody
+    100010: U_MC02_CarbonFiber
+    100012: U_MC02_CarBottom
+    100014: U_MC02_Grille
+    100016: U_MC02_InteriorLow
+    100018: U_MC02_Lights
+    100020: U_MC02_Lights_Glass
+    100022: //RootNode
+    100024: U_MC02_Windows
+    100026: U_MC02_wingMirrors
+    100028: wheels
+    100030: wheels_FL
+    100032: wheels_FR
+    100034: wheels_RL
+    100036: wheels_RR
+    400000: Brake_Caliper
+    400002: interior_Low
+    400004: Steering_Wheel
+    400006: U_MC02_BlackShine
+    400008: U_MC02_CarBody
+    400010: U_MC02_CarbonFiber
+    400012: U_MC02_CarBottom
+    400014: U_MC02_Grille
+    400016: U_MC02_InteriorLow
+    400018: U_MC02_Lights
+    400020: U_MC02_Lights_Glass
+    400022: //RootNode
+    400024: U_MC02_Windows
+    400026: U_MC02_wingMirrors
+    400028: wheels
+    400030: wheels_FL
+    400032: wheels_FR
+    400034: wheels_RL
+    400036: wheels_RR
+    2300000: Brake_Caliper
+    2300002: interior_Low
+    2300004: Steering_Wheel
+    2300006: U_MC02_BlackShine
+    2300008: U_MC02_CarBody
+    2300010: U_MC02_CarbonFiber
+    2300012: U_MC02_CarBottom
+    2300014: U_MC02_Grille
+    2300016: U_MC02_InteriorLow
+    2300018: U_MC02_Lights
+    2300020: U_MC02_Lights_Glass
+    2300022: U_MC02_Windows
+    2300024: U_MC02_wingMirrors
+    2300026: wheels_FL
+    2300028: wheels_FR
+    2300030: wheels_RL
+    2300032: wheels_RR
+    3300000: Brake_Caliper
+    3300002: interior_Low
+    3300004: Steering_Wheel
+    3300006: U_MC02_BlackShine
+    3300008: U_MC02_CarBody
+    3300010: U_MC02_CarbonFiber
+    3300012: U_MC02_CarBottom
+    3300014: U_MC02_Grille
+    3300016: U_MC02_InteriorLow
+    3300018: U_MC02_Lights
+    3300020: U_MC02_Lights_Glass
+    3300022: U_MC02_Windows
+    3300024: U_MC02_wingMirrors
+    3300026: wheels_FL
+    3300028: wheels_FR
+    3300030: wheels_RL
+    3300032: wheels_RR
+    4300000: U_MC02_CarbonFiber
+    4300002: U_MC02_Grille
+    4300004: U_MC02_CarBody
+    4300006: U_MC02_Windows
+    4300008: U_MC02_Lights
+    4300010: U_MC02_Lights_Glass
+    4300012: U_MC02_BlackShine
+    4300014: U_MC02_CarBottom
+    4300016: wheels_FL
+    4300018: wheels_RL
+    4300020: wheels_RR
+    4300022: wheels_FR
+    4300024: Brake_Caliper
+    4300026: U_MC02_InteriorLow
+    4300028: interior_Low
+    4300030: Steering_Wheel
+    4300032: U_MC02_wingMirrors
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: U_MC02_Bottom_shdr
+    second: {fileID: 2100000, guid: 9a3c7e6cd2b9a4e3ba8504088ace5741, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: U_MC02_CF_shdr
+    second: {fileID: 2100000, guid: 309963ad00402418e8b2ef9056d84b8c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: U_MC02_Carbody_shdr
+    second: {fileID: 2100000, guid: ef226c68def7a4317bbb4ecbf856a706, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: U_MC02_LightsGlass_shdr
+    second: {fileID: 2100000, guid: 60df19169538a4dcd96e9028b255f70b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: U_MC02_PositionLights_shdr
+    second: {fileID: 2100000, guid: ac9b73021a71b446b853f8ed9fc8cffd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: U_MC02_Rotor_shdr
+    second: {fileID: 2100000, guid: 362be55e77d0943118274fedf38eedcf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: U_MC02_blackShine_shdr
+    second: {fileID: 2100000, guid: e3c1be1867bcc4b0eb613b1b8ca36fe4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: U_MC02_cardetails_shdr
+    second: {fileID: 2100000, guid: 7ef0ef4eedc37413189683f3cd2b27a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: U_MC02_interiorLow_shdr
+    second: {fileID: 2100000, guid: 9ea005f8052c3421b9d2a21fa755d0f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: U_MC02_tyre_shdr
+    second: {fileID: 2100000, guid: bfae00ba345374e529df98b6410508ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: U_MC02_wheel_shdr
+    second: {fileID: 2100000, guid: bcde6c31f306c436a9d1f0c2a16349c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: U_MC02_windows_shdr
+    second: {fileID: 2100000, guid: d5a6e5a3e0d984af5be912196da3fc0f, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 4.81
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
